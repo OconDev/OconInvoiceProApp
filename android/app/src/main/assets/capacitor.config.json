@@ -1,0 +1,8 @@
+{
+	"appId": "com.oconservices.invoicepro",
+	"appName": "Ocon Invoice Pro",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}

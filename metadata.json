@@ -1,0 +1,7 @@
+{
+  "name": "OconInvoicePro - Smart Billing & Invoicing",
+  "description": "A professional-grade invoicing application inspired by Bookipi, featuring smart AI-powered descriptions, client management, and detailed financial tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
